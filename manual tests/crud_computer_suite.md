@@ -26,6 +26,9 @@ Expected result.<br>
    * `2023-08-29` in **Discontinued column**
    * `RCA` in **Company column**
    * I don't see rows without `test computer` in their **Computer name column**
+   
+### TODO: edit computer suite, remove computer suite, field validation suite
+...
     
     
    

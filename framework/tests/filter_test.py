@@ -4,8 +4,8 @@ from parameterized import parameterized
 
 
 class FilterTest(TableActions):
-    autouse_fixture_names = ["request"]
     # fixture injection
+    autouse_fixture_names = ["request"]
 
     @parameterized.expand([
         ('asci_white_filter_computer'),

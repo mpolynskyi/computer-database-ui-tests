@@ -2,7 +2,7 @@ from framework.actions.computer_item_actions import ItemActions
 from parameterized import parameterized
 
 
-class CreateComputerTest(ItemActions):
+class CRUDComputerTest(ItemActions):
     """
     there is different approaches for edit and delete items:
     First one: before edit/delete - create new item via browser
@@ -17,6 +17,7 @@ class CreateComputerTest(ItemActions):
         introduced = '2011-12-14'
         discontinued = '2012-12-14'
         company = 'Nokia'
+
         self.create_computer(name, introduced=introduced, discontinued=discontinued, company=company)
         self.wait_for_success_created_item_message(name)
         # no other checks because application db is readonly

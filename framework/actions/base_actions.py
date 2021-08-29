@@ -16,6 +16,7 @@ class BaseAction(BaseCase):
 
     def setUp(self):
         super(BaseAction, self).setUp()
+        # Future setup for something. Clean reporting dir for example.
         pass
 
     def open(self, url):

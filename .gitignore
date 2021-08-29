@@ -1,0 +1,12 @@
+.pytest_cache
+archived_logs
+latest_logs
+venv
+__pycache__
+assets
+report.html
+dashboard.html
+.DS_Store
+downloaded_files
+.idea/*
+/archived_logs/

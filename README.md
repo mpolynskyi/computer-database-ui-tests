@@ -53,3 +53,6 @@ for testing https://computer-database.gatling.io website. This website has read 
 > 
 >3. Click on green triangle near test function or test class:
 ![run tests in IDE](https://user-images.githubusercontent.com/12695133/131230536-60e5f59d-c45b-458a-b89e-ee4198c9951c.gif)
+
+### Awesomeness approve from [seleniumbase.io](https://seleniumbase.io/) creator 😅
+![run tests in IDE](https://user-images.githubusercontent.com/12695133/131457843-640adb34-c899-400a-a943-0912b687037d.png)
